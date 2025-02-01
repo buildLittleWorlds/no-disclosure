@@ -198,6 +198,14 @@ main {
     margin: 1.5rem 0 2rem 0;
 }
 
+/* Featured Image */
+img.featured-image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto 20px;
+}
+
 /* Footer styles */
 footer {
     text-align: center;

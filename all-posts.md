@@ -1,0 +1,118 @@
+# No Disclosure Blog Posts
+
+## More about "Controllability" and Copyright
+In its ongoing exploration of AI and copyright, the U.S. Copyright Office, in [Copyright and Artificial Intelligence, Part 2: Copyrightability](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf) (2025), keeps returning to the concept of "control." Insufficient "human control over the expressive elements" (U.S. Copyright Office, 2025, p. 8) is a key reason cited for denying copyright to purely AI-generated outputs and for scrutinizing AI-assisted works. But this relentless focus on "control" as the defining feature of human art is not only misguided, it's demonstrably false. To illustrate, let me propose a thought experiment: my heart, my camera, and a month of letting go.
+
+Imagine a specialized camera, a marvel of engineering, equipped with sophisticated heart-rate monitoring. I program it meticulously: whenever my heart rate surges to a specified, exhilarating level, the shutter activates, snapping a picture, regardless of where the lens is pointed. For a month, I live my life – mundane moments and heart-pounding adventures alike – with this camera as my involuntary, physiological scribe. At month's end, I sift through thousands of images, selecting those that resonate, those that capture something unexpected, compelling, beautiful, or strange.
+
+Could I claim copyright on these selected images? According to the "controllability" logic increasingly prominent in discussions of AI art and reflected in the Copyright Office's document, the answer might be a resounding "no." After all, I relinquished moment-to-moment control. I didn't dictate the composition of each shot; my heartbeat did. Where is the fine-grained human direction, the meticulous artistic command so often lauded as the hallmark of human creativity?
+
+The Copyright Office, in analyzing prompts, emphasizes that "prompts do not appear to adequately determine the expressive elements produced, or control how the system translates them into an output" (U.S. Copyright Office, 2025, p. 27). This suggests a model of authorship where direct, predictable, and meticulously managed control over every element of creation is paramount. But my heart-rate camera scenario throws a wrench in this control-centric view.
+
+In this photographic experiment, "control," in the traditional, direct sense, is intentionally surrendered at the moment of capture. Yet, to argue that this absence of moment-to-moment control negates human authorship is to fundamentally misunderstand where creative agency truly resides. My creative contribution isn't absent; it's simply manifested differently, and arguably, more fundamentally:
+
+- **Conceptual Control:** The entire artistic concept is mine. The idea of using physiological response – my heartbeat – as a photographic trigger. This is a conceptual, imaginative act.
+- **Systemic Control:** I designed the system. I chose the camera, programmed the heart-rate trigger, and determined the parameters of the project. This is an act of design, a framework for creation.
+- **Environmental Control:** I chose where to live, what to experience during that month, consciously or unconsciously influencing the potential subject matter and emotional tenor of the images.
+- **Curatorial Control:** Crucially, the selection of images. From a vast, automatically generated archive, I exercise human aesthetic judgment, choosing those that speak to me, those that possess artistic merit. This act of curation is a deeply human and creative one.
+
+Think about other photographic genres. Street photographers thrive on capturing fleeting, uncontrollable moments. Time-lapse photographers set up systems and let natural processes unfold. Are their copyrights diminished because they don't micromanage every element of each image at the moment of capture? Of course not. Their authorship lies in their vision, their setup, their chosen perspective, and their selection of the final work.
+
+The obsession with "controllability" as the defining feature of human art, especially in the AI context, is a delusion. It promotes a narrow, mechanistic view of creativity as a process of rigid, top-down command, ignoring the power of intuition, chance, and even surrender in artistic creation. It risks valuing domination over direction, command over conceptualization.
+
+And this "control delusion" directly fuels the demand for AI transparency. To truly assess "control" in the Copyright Office's terms, we would need to dissect every creative choice – not just prompts, but the artist's entire conceptual framework, their system design, their environmental choices, and their curatorial criteria. This is not just impractical; it's artistic surveillance.
+
+My heart-rate camera experiment reveals a vital truth: human creativity isn't about absolute, moment-to-moment command. It's about intentional direction, conceptual innovation, and the human agency to design systems and curate outcomes, even when relinquishing immediate control. Let us reject the narrow, control-obsessed definition of "human art" that threatens to distort copyright in the age of AI. Let us instead celebrate the diverse ways humans express their creativity, and resist the demand for "transparency" driven by a fundamentally flawed understanding of what makes art, well, human.
+
+**Reference**  
+U.S. Copyright Office. (2025, January). _Copyright and artificial intelligence: Part 2: Copyrightability_ (Report). Washington, DC: Author.
+
+---
+
+## The "Controllability Standard" in U.S. Copyright
+*Going against the principle of this blog, I'm posting here a totally AI-generated idea for a blog I've been using Google AI Studio to play around with. I'll be revising it and making it say what I want to say, but here's the first form.*
+
+We at "No Disclosure" have long championed artistic autonomy, arguing against forced transparency in creative processes. Now, the U.S. Copyright Office, in its recent report [Copyright and Artificial Intelligence, Part 2: Copyrightability](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf) (2025), inadvertently throws into sharp relief a dangerous principle: the elevation of "control" as a key criterion for copyright, particularly when it comes to AI-assisted art. But is "control" really the yardstick by which we measure human authorship, or could it, in fact, be antithetical to the very spirit of creative expression?
+
+Consider this scenario: an individual, after a night of perhaps too much revelry, awakens to discover a poem they penned in their inebriated state. Surprised and impressed, they submit it for publication. The editor, familiar with their usual style, raises an eyebrow, questioning, "This is nothing like your other work. I don't think you wrote this." According to the Copyright Office's emphasis on "control," could this intoxicated poet be denied copyright?
+
+The Copyright Office stresses that "copyright does not extend to purely AI-generated material, or material where there is insufficient human control over the expressive elements" (U.S. Copyright Office, 2025, p. 8). But what level of "control" is deemed "sufficient"? And is conscious, fine-grained control even a necessary, let alone desirable, element of all human creative acts?
+
+Our intoxicated poet, in their altered state, certainly lacked the typical kind of conscious control one might associate with deliberate artistic creation. Their rational mind was clouded, inhibitions lowered, and the poem may have flowed from a less consciously directed place. Yet, is it not still their poem? Does the diminished conscious control invalidate their authorship? If forced to prove their claim, would they need to dissect and justify their intoxicated thought process, revealing the messy, less-than-fully-controlled circumstances of the poem's creation? To demand such a disclosure seems not only absurd, but fundamentally misunderstands the nature of creativity itself.
+
+Indeed, the history of art is replete with movements that actively sought to relinquish conscious control in the creative process. Think of Surrealism. Artists like André Breton and Salvador Dalí deliberately employed techniques like automatic writing, dream analysis, and hallucinatory imagery to bypass the rational mind and tap into the unconscious. They believed true artistic expression arose precisely when conscious control was suspended, when the subconscious could speak unburdened by rational constraints.
+
+Were these Surrealists, by their own admission of relinquishing conscious control, to be denied copyright? Should Breton, after describing his automatic writing experiments, have been told, "Sorry, Mr. Breton, you intentionally lessened your conscious control, therefore, these works are not sufficiently 'humanly authored' for copyright protection"? The very idea is ludicrous.
+
+The Copyright Office, in its analysis of prompts, argues that "prompts do not appear to adequately determine the expressive elements produced, or control how the system translates them into an output" (U.S. Copyright Office, 2025, p. 27). While this may be a fair assessment of prompts alone, it elevates "control" to a pedestal it doesn't deserve. The analogy of the intoxicated poet and the example of Surrealism reveal that human creativity often flourishes in the absence of, or even in deliberate rejection of, strict conscious control.
+
+To make "controllability" the central pillar of copyright for AI-assisted art risks misunderstanding both art and human creativity. It implies a mechanistic, overly rational view of artistic creation, ignoring the messy, intuitive, and sometimes even accidental nature of how art often comes into being. It further risks creating a system where artists are pressured to prove their "control," potentially forcing them to disclose intimate details of their creative process – the very artistic surveillance we at "No Disclosure" oppose.
+
+Instead of fixating on a narrow definition of "control," perhaps we should focus on human agency and intentional direction. Even in intoxication or Surrealist techniques, there is still human agency at play – the human decision to engage in these processes, to direct one's creative efforts, even if it means stepping aside to let other forces (conscious or subconscious) take the lead.
+
+Mandatory AI disclosure, driven by this overemphasis on "control," becomes a tool to enforce a flawed standard. Let us resist this narrow, control-centric view of art and authorship. Let us instead champion a broader, more humanistic understanding of creativity, one that acknowledges the power of the unconscious, the beauty of the unexpected, and the enduring validity of art born even in moments of diminished conscious control. For in art, perhaps, true freedom lies not in rigid control, but in the courageous embrace of the uncontrolled.
+
+**Reference**  
+U.S. Copyright Office. (2025, January). _Copyright and artificial intelligence: Part 2: Copyrightability_ (Report). Washington, DC: Author.
+
+---
+
+## Against Art Surveillance
+The claim is simple: artists should not be forced to reveal their creative processes. Requiring an artist to reveal whether they used AI in their work requires surveillance of artistic methods. There's no way around it. Either the rule will never be enforced, in which case, don't make the rule. Or the rule will be enforced, in which case we need mechanisms for monitoring whether an artist used AI or not. I call this "art surveillance."
+
+For anyone who lived through 9/11, this feels pretty familiar. In the name of security, basic freedoms were traded for the promise of safety. We not only tolerated but demanded increased levels of government surveillance, accepting the erosion of privacy as the price of protection. "Scary terrorist" became the justification for a vast expansion of the surveillance state.
+
+Now we've got a similar thing revving up. Just swap out "scary terrorist" for "scary AI," and the architecture of fear and control snaps into place. Fear and ignorance about AI have led to a proliferation of publisher guidelines against the use of AI in writing and countless social media posts and fearmongering videos requiring protection from AI. The recent U.S. Copyright Office report, [Copyright and Artificial Intelligence, Part 2: Copyrightability](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf) (2025), lays bare the mechanisms of how this latest variety of surveillance will be implemented.
+
+The report itself acknowledges the unsettling nature of this new technology: "The capabilities of the latest generative AI technologies raise challenging questions about the nature and scope of human authorship" (U.S. Copyright Office, 2025, p. 9). This framing immediately positions AI as a problem, a source of "challenging questions" that require interrogation. Just as the post-9/11 era was defined by a need to understand and control an unknown threat, so too is AI presented as a force demanding scrutiny.
+
+The report highlights the "black box" nature of AI, justifying a new kind of intrusive gaze into the most basic moment-by-moment nature of artistic work. "Some observers describe AI as a 'black box,' and even expert researchers are limited in their ability to understand or predict the behavior of specific models" (U.S. Copyright Office, 2025, p. 14). This echoes the perceived unknowability of the terrorist threat. If AI is a "black box," then, the logic goes, we must scrutinize the artist's process to ensure no uncopyrightable "AI art" slips through the cracks. This lack of understanding, this fear of the unknown, becomes the very justification for artistic surveillance.
+
+The document explains that determining copyright for AI-assisted works will not be a simple matter: "Whether human contributions to AI-generated outputs are sufficient to constitute authorship must be analyzed on a case-by-case basis" (U.S. Copyright Office, 2025, p. 8). This "case-by-case basis" isn't a neutral declaration; it's an operational directive for artistic surveillance. Imagine the implications: each artwork potentially subjected to outside inquiry, artists compelled to meticulously document their process, to prove the "human contribution" is sufficient. This is not simply about defining copyright; it's about creating a system where artists are under constant suspicion, forced to open their studios and minds to institutional scrutiny.
+
+Just as the surveillance state after 9/11 built digital dossiers on citizens, artistic surveillance will demand digital dossiers on creative processes. If an artist is denied copyright based on the suspicion of AI involvement, what recourse do they have? The report implicitly answers: they must disclose. They must make public the very methods and techniques that define their artistic voice, potentially diminishing its mystique and undermining their livelihood. This is the insidious trade: artistic freedom for the illusion of copyright purity, mirroring the earlier trade of civil liberties for the illusion of absolute security.
+
+We were promised safety in exchange for freedom after 9/11. Similarly, the promise of "protecting human authorship" through artistic surveillance will only stifle creativity and erode artistic autonomy. Just as we should have resisted the knee-jerk expansion of surveillance after 9/11, artists must resist this creeping demand for AI transparency. "No Disclosure" is not just about artistic mystery; it's now about resisting artistic surveillance and defending the fundamental freedom to create without the shadow of suspicion and the demand for constant, process-revealing transparency.
+
+**Reference**  
+U.S. Copyright Office. (2025, January). _Copyright and artificial intelligence: Part 2: Copyrightability_ (Report). Washington, DC: Author.
+
+---
+
+## U.S. Copyright Office Update
+On January 29, 2025 the U.S. Copyright Office released [Part 2](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf) of its updated guidance on copyright law in the context of changes in AI.
+
+In general, the update signals more copyright protection for creators using AI in their process. On the question of transparency and disclosure, however, the update is a bit of a mess. It implies in some places and states outright in others that a creator will be obligated to demonstrate in fine detail which parts of their work were original to them and which came from an AI. This is already totally impractical and will become less and less practical every day.
+
+---
+
+## Song and Dance Man
+The title comes from a [Bob Dylan press conference in 1965](https://www.youtube.com/shorts/rXCK7TJ9_bM). Dylan was getting pressured at the time to say whether he was a more a singer or a poet. His answer ("I think of myself more as a song and dance man, you know") was his way to say, "That goes to craft and method, and I'll keep those to myself."
+
+There's always been this push from the outside to force writers, magicians, circus performers, and tricksters to reveal how they do what they do. It's a natural curiosity, but the hidden source of the writer's work should stay hidden.
+
+A large part of what a writer owns if a writer owns anything at all is the secret of how this particular writer makes a made-up world feel more real than anything else. That's magic. And a magician never tells.
+
+---
+
+## Who Decides How a Writer Writes?
+Here's what I think about publisher guidelines that prohibit the use of AI. If you're a creator who doesn't like AI and you see these anti-AI guidelines as "being on the right side" in the fight against AI, these guidelines might feel like they rise to the level of righteous activism. But I disagree.
+
+Who should determine the methods an artist uses for the creation of the artist's work?
+
+Who should determine the methods a publisher uses for the publishing of the artist's work?
+
+I say the publisher should be free to use the methods the publisher wants to use for the publishing of material the publisher has agreed to publish. This is what publishers do. Publishers take work submitted to them, determine the quality, select work they want to publish, and then use their technical expertise to put that work out into the world for readers.
+
+And I say artists should determine their own methods for creating the work they want to create. What is the appropriate response when a publisher asks, "Did you use AI to write this?"
+
+"That's none of your business. You stay in your lane, and I'll stay in mine."
+
+If artists give up the right to decide their own methods for the creation of their work, they hand over power to publishers. Publishers already have an out-sized power over the work of artists and writers. Writers are generally so grateful to get the attention of publishers that they sign over most rights to the publisher. But writers should have more respect for themselves as the owners of their own work, including the methods they use to create their work.
+
+---
+
+## No Disclosure
+My position is simple. I am against the requirement that creators disclose whether they use AI or not in their work. Writers decide what they want to write about; what they want to say about what they write about; and the methods they will use in writing what they write. These all belong to the writer, and the writer is under no obligation to reveal the methods of craft.
+
+This blog is my attempt to work out the implications of this position.
